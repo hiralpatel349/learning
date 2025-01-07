@@ -1,2 +1,2 @@
 # learning
-first learning
+first learning git command
