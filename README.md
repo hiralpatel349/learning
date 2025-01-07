@@ -1,4 +1,4 @@
 # learning
-first learning
-second learning file
 test
+first learning git command
+second learning file
